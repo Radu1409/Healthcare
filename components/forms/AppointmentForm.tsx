@@ -13,8 +13,7 @@ import { createUser } from "@/lib/actions/patient.actions"
 import { FormFieldType } from "./PatientForm"
 import { Doctors } from "@/constants"
 import { SelectItem } from "../ui/select"
-
-import { AppointmentFormValidation, getAppointmentSchema } from "@/lib/validation"
+import { getAppointmentSchema } from "@/lib/validation"
 import Image from "next/image";
 import {
     createAppointment,
