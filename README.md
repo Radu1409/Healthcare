@@ -3,11 +3,11 @@
 ### This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_5.png" alt="Photo 1" width="300"/>
-  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_10.png" alt="Photo 2" width="300"/>
-  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_11.png" alt="Photo 3" width="300"/>
-  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_17.png" alt="Photo 3" width="300"/>
-  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_18.png" alt="Photo 4" width="300"/>
+  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_5.png" alt="Photo 1" width="400"/>
+  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_10.png" alt="Photo 2" width="400"/>
+  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_11.png" alt="Photo 3" width="400"/>
+  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_17.png" alt="Photo 3" width="400"/>
+  <img src="https://raw.githubusercontent.com/Radu1409/Healthcare/main/public/media/Healthcare_18.png" alt="Photo 4" width="400"/>
 </p>
 
 ## 📝 Project Description:
